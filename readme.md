@@ -1,5 +1,6 @@
 # Utsav Patel
 
-# 4rd year Electronics  and Communication Engineering  student
+#Ml and AI
 
-# HTML:5 / CSS / JAVA SCRIPT / NODE JS / REACT JS / IOS /Swift/PYTHON
+
+# PYTHON / HTML:5 / CSS / JAVA SCRIPT / NODE JS / REACT JS / IOS /Swift/PYTHON
